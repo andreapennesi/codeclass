@@ -63,7 +63,7 @@ int main(int argc, const char * argv[]){
     
     cout << "The Cat goes ";
     lucy.doaNoise();
-    cout << "The Horse goes ";
+    cout << "The Horse says ";
     caden.doaNoise();
     
     
